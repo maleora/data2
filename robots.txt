@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://maleora.github.io/data2/sitemap.xml
